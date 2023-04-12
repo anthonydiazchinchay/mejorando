@@ -1,5 +1,6 @@
 body
 {
+    
     color: red;
     text-align: center;
     font-family: Arial;
@@ -40,5 +41,6 @@ body
 }
 #post
 {
+    background: red;
     padding: 1em;
 }
